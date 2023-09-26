@@ -8,3 +8,7 @@ body{
     background-color: rgb(97, 93, 93);
 
 }
+.navbar-container{
+    background-color: rgba(26, 138, 121, 0.741);
+    color: white;
+}
