@@ -9,6 +9,73 @@ body{
 
 }
 .navbar-container{
+    top: 0;
     background-color: rgba(26, 138, 121, 0.741);
     color: white;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: rgba(4, 35, 30, 0.925);
+}
+.education-container{
+    background-color: rgba(215, 189, 189, 0.839);
+}
+.edu{
+    color: rgb(220, 25, 129);
+    font-size: 35px;
+}
+.circle{
+    background-color: rgba(206, 77, 77, 0.7);
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    color: rgb(255, 252, 252);
+}
+.card{
+    font-size:16px;
+    color: rgb(7, 7, 7);
+}
+.project-container{
+    background-color: rgb(15, 5, 25);
+}
+.pro{
+    color: rgb(220, 25, 129);
+    font-size: 35px;
+    text-align: center;
+}
+.por{
+    font-size: 35px;
+}
+.form-container{
+    background-color: rgb(89, 88, 88);
+}
+.inner-form{
+    background-color: rgb(59, 55, 55);
+}
+.send:hover{
+background-color: rgb(255, 255, 255);
+color: black;
+}
+.footer{
+    background-color: rgb(23, 78, 35);
+   
+}
+.circleee{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: rgb(240, 244, 247);
+    font-size: 26px;
+    text-align: center;
+    color: rgb(36, 147, 161);
+
+}
+.circleee:hover{
+   
+    background-color: rgb(9, 9, 9);
+   
+    color: rgb(255, 255, 255);
+
 }
